@@ -2,7 +2,6 @@ package kr.co.sist.board;
 
 import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.Reader;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

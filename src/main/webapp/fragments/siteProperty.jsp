@@ -1,6 +1,6 @@
 <%@page import="kr.co.sist.siteProperty.SitePropertyVO"%>
 <%@page import="kr.co.sist.siteProperty.SiteProperty"%>
-<%@ page language="java" contentType="text/html; charset=UTF-8"
+<%@ page language="java"
     pageEncoding="UTF-8"%>
 
 <%
